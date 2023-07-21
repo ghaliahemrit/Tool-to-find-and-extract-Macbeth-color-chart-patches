@@ -22,5 +22,7 @@ Outputs are:
 
 ColorChecker dataset Raw images from https://www2.cs.sfu.ca/~colour/data/shi_gehler/
 The processed images and masks accessible from https://drive.google.com/drive/folders/1tKrL3pMV1tdAEtmeWGKlHoUU6UfpUSKZ
+Colour Correction Toolbox by Fufu Fang https://github.com/fangfufu/Colour_Correction_Toolbox
 Reference:
 G. Hemrit et al. “Providing a single ground-truth for illuminant estimation for the colorchecker dataset,” IEEE transactions on pattern analysis and machine intelligence, 2019, pp. 1286-1287.
+https://ieeexplore.ieee.org/abstract/document/8751985
